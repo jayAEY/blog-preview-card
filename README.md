@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/Screen%20Shot%202024-02-15%20at%2012.44.56.png)
+![screenshot](./assets/images/Screen%20Shot%202024-02-15%20at%2012.44.56.png)
 
 ### Links
 
@@ -37,7 +37,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### Continued development
