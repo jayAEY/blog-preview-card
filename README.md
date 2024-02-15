@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](.assets\images\Screen Shot 2024-02-15 at 12.44.56.png)
+![Screenshot](assets\images\Screen Shot 2024-02-15 at 12.44.56.png)
 
 ### Links
 
