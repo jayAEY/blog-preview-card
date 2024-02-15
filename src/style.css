@@ -95,7 +95,7 @@ span {
   border-radius: 10px;
   background-size: 320px;
   background-position: -30px;
-  background-image: url("/assets/images/illustration-article.svg");
+  background-image: url("../assets/images/illustration-article.svg");
 }
 
 @media screen and (min-width: 375px) {
